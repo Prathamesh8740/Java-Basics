@@ -1,4 +1,4 @@
 # Java-Basics
 This is my first Github repository
-<hr>
-author :- Prathamesh Narale
+<br>
+<b>author :- Prathamesh Narale<\b>
